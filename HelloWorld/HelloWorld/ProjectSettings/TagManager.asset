@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Gravity
+  - Ammo
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GravityField
+  - Laser
+  - Player
+  - IgnoreLaser
+  - 
+  - 
+  - 
+  - 
+  - Planet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Stars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stars
+    uniqueID: 3286255669
+    locked: 0
+  - name: Planet
+    uniqueID: 2953033731
+    locked: 0
+  - name: Pickup
+    uniqueID: 3935511037
+    locked: 0
